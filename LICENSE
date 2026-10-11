@@ -1,248 +1,209 @@
-                                                  # TEAM PROJECT LICENSE AND CONTRIBUTION AGREEMENT
+TEAM PROJECT LICENSE AND CONTRIBUTION AGREEMENT
 
-                                                      **Project Repository:** [AutoMed]   
-                                                      **Repository Owner / Group Leader:** Jatin  
-**Authorized Team Members:**  
+Project Repository: AutoMed
+Repository Owner / Group Leader: Jatin
+
+Authorized Team Members:
 1. Jatin — Group Leader / Repository Owner
 2. Dhairya — Team Member
 3. Nikhil — Team Member
 4. Akshit — Team Member
 
-**Effective Date:** [10/10/2026]
+Effective Date: 10/10/2026
 
 ---
 
-## 1. Ownership and Repository Authority
+## 1. Purpose of This Agreement
 
-This repository was created and is maintained by **Jatin**, who is the
-designated Group Leader and Repository Owner for this project.
+This document governs the use, modification, contribution, and distribution of the AutoMed project repository. It is intended to define the rights and responsibilities of the repository owner, the authorized project team, and any external contributor who may be granted access.
 
-Jatin has primary authority over the GitHub repository, its settings,
-branches, access permissions, and project management.
-
-Creation of this repository by Jatin does not necessarily mean that every
-piece of code, documentation, design, or other contribution is solely
-owned by Jatin. Contributions made by individual team members remain
-subject to the applicable academic, institutional, and intellectual
-property rules.
+This agreement supplements, rather than replaces, any applicable academic, institutional, legal, or third-party licensing obligations.
 
 ---
 
-## 2. Authorized Team Members
+## 2. Ownership and Repository Authority
 
-The following individuals are authorized members of the project:
+This repository was created and is maintained by Jatin, who serves as the designated Group Leader and Repository Owner.
 
-- **Jatin** — Group Leader / Repository Owner
-- **Dhairya** — Authorized Contributor
-- **Nikhil** — Authorized Contributor
-- **Akshit** — Authorized Contributor
+Jatin has primary authority over the GitHub repository, including access controls, branch settings, pull requests, merges, repository permissions, contributor management, and overall project administration.
 
-Only the individuals listed above are authorized to make changes to the
-project through the GitHub repository.
+The repository owner does not automatically claim exclusive ownership of every idea, code contribution, document, design, or work product created by other team members. However, the repository itself remains under the administrative control of Jatin, and all contribution access is governed by the terms of this agreement.
 
 ---
 
-## 3. Permission to Modify the Project
+## 3. Authorized Team Members
 
-The authorized team members may:
+The following individuals are authorized members of this project:
 
-- Add, modify, or remove project files.
-- Write and modify source code.
-- Create branches and submit pull requests.
-- Fix bugs and improve the project.
-- Add documentation and other project resources.
-- Review and discuss changes made by other team members.
+- Jatin — Group Leader / Repository Owner
+- Dhairya — Team Member
+- Nikhil — Team Member
+- Akshit — Team Member
 
-However, significant changes to the project's core functionality,
-architecture, or final submission should be discussed with the Group
-Leader before being merged into the main branch.
+Only the individuals listed above may create, modify, review, or merge project content through the GitHub repository unless explicit written permission is granted by Jatin.
 
 ---
 
-## 4. Restrictions on Unauthorized Users
+## 4. Permission to Modify the Project
 
-Individuals who are not listed as authorized team members may not:
+Authorized team members may:
 
-- Modify the project's source code.
-- Add, delete, or alter project files.
-- Create or merge changes into the repository.
-- Upload their own versions of the project.
-- Claim authorship of the project.
-- Distribute, publish, or commercially use the project.
-- Copy substantial portions of the project for another project.
+- Add, edit, delete, or replace project files
+- Write and revise source code
+- Create feature branches and submit pull requests
+- Fix bugs and improve functionality
+- Add documentation and supporting materials
+- Review and discuss code and repository changes
 
-Any person who wishes to contribute to, modify, distribute, or otherwise
-use the project must first obtain explicit permission from **Jatin**, the
-Group Leader / Repository Owner.
+Any major changes to the project's architecture, core functionality, or final project direction should be discussed with the Group Leader before merging into the main branch.
 
 ---
 
-## 5. Permission for External Contributors
+## 5. Restrictions on Unauthorized Users
 
-If an individual outside the authorized team wishes to contribute, they
-must:
+The following actions are prohibited for any person who is not explicitly listed as an authorized member of the project:
 
-1. Contact Jatin.
-2. Explain the proposed contribution or modification.
-3. Receive explicit approval before making changes.
-4. Follow the contribution rules established by the team.
-5. Obtain approval before their contribution is merged into the main
-   project.
+- Modifying source code
+- Creating, deleting, or altering project files
+- Making changes in the repository
+- Creating branches or pull requests
+- Uploading their own version of the project
+- Claiming authorship of the project
+- Distributing, publishing, or commercializing the project
+- Copying substantial portions of the code or project materials for another project
 
-Being granted permission to contribute does not automatically grant
-ownership of the project or unrestricted rights to its contents.
+Any person who wishes to contribute to, modify, distribute, or use the project must first obtain explicit permission from Jatin.
 
 ---
 
-## 6. Main Branch Protection
+## 6. External Contributors
 
-The `main` branch should be treated as the official and stable version
-of the project.
+If an individual outside the authorized team wishes to contribute, they must:
+
+1. Contact Jatin directly
+2. Explain the purpose and scope of the proposed contribution
+3. Receive approval before making any changes
+4. Follow the repository contribution rules established by the team
+5. Obtain final approval before any contribution is merged into the main project
+
+Approval to contribute does not grant ownership, unrestricted rights, or automatic access to project materials.
+
+---
+
+## 7. Main Branch Protection
+
+The main branch is considered the official and stable branch of the project.
 
 Where practical:
 
-- Direct pushes to `main` should be restricted.
-- Team members should create a separate branch for significant changes.
-- Pull requests should be reviewed before being merged.
-- Jatin has final authority over whether a significant change is merged
-  into `main`.
+- Direct pushes to main should be restricted
+- Team members should work in separate branches for significant changes
+- Pull requests should be reviewed before being merged
+- Jatin has final authority over whether a change is merged into main
 
 ---
 
-## 7. Attribution
+## 8. Attribution and Credit
 
-All authorized team members should receive appropriate credit for their
-contributions.
+All authorized team members should receive proper credit for their work and contributions.
 
-Contributors should not remove or alter existing authorship,
-contributor, or attribution information without permission from the
-Group Leader and the affected contributor.
+No contributor may remove, alter, or obscure attribution, authorship, or project credit without permission from the Group Leader and the affected contributor.
 
 ---
 
-## 8. Academic and Educational Use
+## 9. Academic and Institutional Compliance
 
-This repository is intended primarily for the team's academic/educational
-project.
+This repository is intended primarily for academic and educational project work.
 
-No team member or external person may submit the project, or a
-substantial portion of it, as their own independent work without
-appropriate acknowledgment and permission.
+No person may submit this project, or a substantial portion of it, as their own independent work without proper acknowledgment and permission.
 
-The project must also comply with the academic integrity and submission
-rules of the relevant institution.
+All contributors must comply with the academic integrity policies and submission requirements of the relevant institution or course.
 
 ---
 
-## 9. Third-Party Materials
+## 10. Third-Party Materials
 
-Any third-party libraries, frameworks, images, code, datasets, or other
-materials included in this repository remain subject to their respective
-licenses.
+Any third-party code, libraries, datasets, frameworks, media, assets, or other materials included in this repository remain subject to the terms of their original licenses.
 
-Nothing in this agreement grants ownership of third-party materials to
-the project team.
+This agreement does not transfer ownership or rights to third-party materials included in the project.
 
 ---
 
-## 10. Confidentiality
+## 11. Confidentiality and Security
 
-If the repository contains private project information, credentials,
-designs, unpublished work, or other confidential material, authorized
-members must not intentionally disclose such information to unauthorized
-persons.
+Authorized members must not intentionally disclose private project information, unpublished work, design details, credentials, or sensitive repository information to unauthorized parties.
 
-Passwords, API keys, tokens, private credentials, and other secrets must
-never be committed to the repository.
+Passwords, API keys, tokens, secrets, and other private credentials must never be committed to the repository.
 
 ---
 
-## 11. Repository Access
+## 12. Repository Access and Account Security
 
-Jatin may grant, modify, or revoke repository access in accordance with
-the team's project requirements.
+Jatin may grant, modify, or revoke repository access as necessary for project management and team requirements.
 
-Team members must not share their GitHub credentials or authentication
-tokens with another person.
+Team members must not share their GitHub credentials, authentication tokens, or access privileges with any other person.
 
-Access to the repository is personal and must not be transferred to
-another individual.
+Access to the repository is personal and may not be transferred or assigned to another individual without approval.
 
 ---
 
-## 12. Changes to This Agreement
+## 13. Modification of This Agreement
 
-Any modification to this license/agreement should be discussed by the
-team.
+This agreement may be revised only through discussion among the authorized team members and approval by the Group Leader.
 
-Changes concerning repository ownership, authorized members, or major
-permissions require approval from the Group Leader.
+Changes affecting repository ownership, membership, branch policy, or major rights require approval from Jatin.
 
 ---
 
-## 13. Termination of Access
+## 14. Termination of Access
 
-A person's authorization to modify the repository may be removed if:
+Authorization to modify or access the repository may be removed if:
 
-- They leave the project.
-- They are removed from the project team.
-- They repeatedly violate the project rules.
-- Their access creates a security or academic-integrity risk.
-- The Group Leader determines that access is no longer required.
+- A team member leaves the project
+- A contributor is removed from the project team
+- The person violates project rules or repository policy
+- The person creates a security or academic-integrity risk
+- The Group Leader determines that access is no longer required
 
-Removal of repository access does not erase the person's legitimate
-contribution history.
-
----
-
-## 14. No Unauthorized Redistribution
-
-No person may publish, redistribute, sell, sublicense, or upload the
-project or substantial portions of it to another repository without
-permission from the Group Leader and, where applicable, the other
-contributors.
+Termination of access does not erase a person's legitimate contribution history or rightful attribution for prior work.
 
 ---
 
-## 15. Final Authority
+## 15. No Unauthorized Redistribution
 
-For matters concerning the GitHub repository itself, **Jatin**, as the
-designated Group Leader and Repository Owner, has final administrative
-authority over:
+No person may publish, redistribute, sell, sublicense, or upload the project, or any substantial part of it, to another repository or public platform without permission from Jatin and, where applicable, the other contributors.
+
+---
+
+## 16. Final Authority
+
+For matters concerning the GitHub repository itself, Jatin, as the designated Group Leader and Repository Owner, has final administrative authority over:
 
 - Repository access
 - Branch permissions
 - Pull requests
 - Merging changes
 - Repository settings
-- Addition or removal of external collaborators
+- Addition or removal of collaborators
 
-This authority does not override the intellectual-property rights,
-academic rights, or institutional rules applicable to individual
-contributors.
+This authority does not override the intellectual property rights, ethical obligations, academic requirements, or institutional policies that apply to individual contributors.
 
 ---
 
-## 16. Acceptance
+## 17. Acceptance
 
-By contributing to this repository, the authorized team members
-acknowledge that they have read and understood these project rules and
-agree to follow them.
+By contributing to this repository, the authorized team members acknowledge that they have read and understand this agreement and agree to comply with its terms.
 
-### Authorized Team
-
-| Name | Role | Authorization |
-|------|------|---------------|
-| Jatin | Group Leader / Repository Owner | Authorized |
-| Dhairya | Team Member | Authorized |
-| Nikhil | Team Member | Authorized |
-| Akshit | Team Member | Authorized |
+Authorized Team:
+- Jatin — Group Leader / Repository Owner
+- Dhairya — Team Member
+- Nikhil — Team Member
+- Akshit — Team Member
 
 ---
 
-**Repository Owner:** Jatin  
-**Project Team:** Jatin, Dhairya, Nikhil, Akshit  
-**Effective Date:** [10/10/2026]
+Repository Owner: Jatin
+Project Team: Jatin, Dhairya, Nikhil, Akshit
+Effective Date: 10/10/2026
 
-© [2026] Jatin and the Project Team. All rights reserved, subject to
-applicable institutional policies and third-party licenses.
+© 2026 Jatin and the Project Team. All rights reserved, subject to applicable institutional policies and third-party licenses.
